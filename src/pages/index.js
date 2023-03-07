@@ -350,7 +350,7 @@ export default function Home() {
       <Head>
         <title>Crypto Devs</title>
         <meta name="description" content="Whitelist-Dapp" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/logo.jfif" />
       </Head>
       <div className={styles.main}>
         <div>
